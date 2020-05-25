@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://shahin:nazsar19@learnmongo-1psfi.mongodb.net/test?retryWrites=true&w=majority",
+    "secretkey":"mysecret",
+    "githubClientId":"aed0ef114e5e739d8aeb",
+    "githubSecret":"41f724fa4cf08794fa438fe8d05542472a479daf"
+}
